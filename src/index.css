@@ -1,3 +1,4 @@
+  @import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -28,6 +29,7 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
+  background-color: yellow;
 }
 
 h1 {
